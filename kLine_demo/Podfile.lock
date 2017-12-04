@@ -1,0 +1,27 @@
+PODS:
+  - FHHFPSIndicator (1.0.0)
+  - YJTransition (0.1.0)
+  - YYModel (1.0.4)
+
+DEPENDENCIES:
+  - FHHFPSIndicator
+  - YJTransition (from `https://github.com/Zyj163/YJTransition.git`)
+  - YYModel
+
+EXTERNAL SOURCES:
+  YJTransition:
+    :git: https://github.com/Zyj163/YJTransition.git
+
+CHECKOUT OPTIONS:
+  YJTransition:
+    :commit: 1d9ba56fb4947e13ff999c3859ee2128fbd480f9
+    :git: https://github.com/Zyj163/YJTransition.git
+
+SPEC CHECKSUMS:
+  FHHFPSIndicator: b4d34c3a93b702ad18358a4eb49839f83f4f30fb
+  YJTransition: 24ede909a9d570e618fd6585d1c2f236b8a31d3b
+  YYModel: 2a7fdd96aaa4b86a824e26d0c517de8928c04b30
+
+PODFILE CHECKSUM: 25b26e990b09c5ed5c71f4757b8793510d9dce3f
+
+COCOAPODS: 1.2.1

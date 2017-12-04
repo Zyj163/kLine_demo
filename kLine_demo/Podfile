@@ -1,0 +1,13 @@
+# Uncomment the next line to define a global platform for your project
+platform :ios, '8.0'
+use_frameworks!
+
+target 'kLine_demo' do
+  # Uncomment the next line if you're using Swift or would like to use dynamic frameworks
+
+  # Pods for kLine_demo
+pod 'YYModel'
+pod 'YJTransition', :git=>'https://github.com/Zyj163/YJTransition.git'
+pod 'FHHFPSIndicator'
+
+end

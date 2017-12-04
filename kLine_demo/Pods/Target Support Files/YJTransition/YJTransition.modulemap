@@ -1,0 +1,6 @@
+framework module YJTransition {
+  umbrella header "YJTransition-umbrella.h"
+
+  export *
+  module * { export * }
+}

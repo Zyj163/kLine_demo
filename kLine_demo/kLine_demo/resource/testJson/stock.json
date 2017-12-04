@@ -1,0 +1,21 @@
+{
+  "status": "0",
+  "targets": [
+    {
+      "chJsCode": "000001.SH",
+      "chCNName": "中文名称",
+      "nOpen": 100,
+      "nHigh": 150,
+      "nLow": 90,
+      "nClose": 120.32,
+      "iVolume": 30000,
+      "iTurover": 2000,
+      "nMatchItems": 30000,
+      "preClosePrice": 120,
+      "time": "2017-11-13 14:39:30",
+      "chStatus": "交易中",
+      "yield": 20.32,
+      "changePercent": 20.32
+    }
+  ]
+}
